@@ -1,4 +1,4 @@
-
+Bartender for macOS advanced Script - battery-health and file-indexing offers the most advanced Bartender for macOS script, with battery-health and file-indexing. Ideal for macOS
 
 
 
